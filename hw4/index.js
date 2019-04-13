@@ -8,13 +8,13 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      'Alice was beginning to get very tired of sitting by her sister on the bank.',
+      'She is very fond of Frank, and therefore I would not speak ill of her.',
   'example2':
-      'Buda-Pesth seems a wonderful place.',
+      '28:14 The depth saith, It is not in me: and the sea saith, It is not with me.',
   'example3':
-      'Scepticism was as much the result of knowledge, as knowledge is of scepticism.',
+      'It was a long, narrow parallelogram, which had a flat wall at one end and ought to have had a flat wall at the other; but that end was broken by a wedge or angle of space, like the prow of a ship.',
   'example4':
-      'How are you?'
+      'Oh, that puts me in mind--here are your gloves which I asked you that night to let me mend.'
 };
 
 function status(statusText) {
