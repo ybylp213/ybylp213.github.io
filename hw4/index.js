@@ -10,7 +10,7 @@ const examples = {
   'example1':
       'If they are not put off, he cannot stir.',
   'example2':
-      '14:18 I will not leave you comfortless: I will come to you.',
+      '79:10 Wherefore should the heathen say, Where is their God?',
   'example3':
       '"It sums up my whole allegory," said the professor.',
   'example4':
