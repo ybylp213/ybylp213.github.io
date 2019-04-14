@@ -8,13 +8,13 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      'She is very fond of Frank, and therefore I would not speak ill of her.',
+      'If they are not put off, he cannot stir.',
   'example2':
-      '28:14 The depth saith, It is not in me: and the sea saith, It is not with me.',
+      '14:18 I will not leave you comfortless: I will come to you.',
   'example3':
-      'It was a long, narrow parallelogram, which had a flat wall at one end and ought to have had a flat wall at the other; but that end was broken by a wedge or angle of space, like the prow of a ship.',
+      '"It sums up my whole allegory," said the professor.',
   'example4':
-      'Oh, that puts me in mind--here are your gloves which I asked you that night to let me mend.'
+      '"And who is _I_?"'
 };
 
 function status(statusText) {
